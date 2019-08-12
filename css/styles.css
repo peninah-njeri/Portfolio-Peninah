@@ -36,10 +36,18 @@ background-color: bisque
 }
 .pesh{
    border-radius: 400px;
-   float: left
+   float: left;
+   margin: 30px;
 }
 .me{
    text-align: center;
    font-family: fantasy;
 
+}
+.container{
+   margin: 0px auto;
+   padding: 2px 4em
+}
+.aa{
+   text-align: center
 }
