@@ -39,7 +39,7 @@ background-color: bisque
    float: left;
    margin: 30px;
 }
-.me{
+.me-1{
    text-align: center;
    font-family: fantasy;
 
@@ -49,5 +49,8 @@ background-color: bisque
    padding: 2px 4em
 }
 .aa{
+   text-align: center
+}
+.projects{
    text-align: center
 }
