@@ -12,7 +12,7 @@ HTML CSS
 ## Contact details.
 Kindly feel free to contact me on the contacts listed below in case you have questions about my code or if you simply feel I need to work on it.
 * Email Address: peninahgathuru@gmail.com
-* Phone number: +254728354738
+* Phone number :
 ## License
 MIT License
 
