@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Project
 #### This is a portfolio project for Peninah Gathuru{12/08/2019}
 #### By {Peninah Gathuru}
@@ -35,3 +36,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=======
+# Portfolio-Peninah
+My first individual project in prep
+>>>>>>> c7d9640014a187fb0ea9ddc064b04167d011af1b
