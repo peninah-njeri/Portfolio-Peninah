@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Portfolio Project
 #### This is a portfolio project for Peninah Gathuru{12/08/2019}
 #### By {Peninah Gathuru}
@@ -39,4 +39,3 @@ SOFTWARE.
 =======
 # Portfolio-Peninah
 My first individual project in prep
->>>>>>> c7d9640014a187fb0ea9ddc064b04167d011af1b
